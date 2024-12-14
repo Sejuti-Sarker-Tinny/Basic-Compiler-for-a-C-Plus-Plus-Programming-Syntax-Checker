@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1734136436 source:c:\users\ishan\documents\compiler design - tinny\basic compiler for a c++ programming syntax checker\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+
